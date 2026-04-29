@@ -1,94 +1,75 @@
-# 📊 Data Analytics Project: Loan Risk & Customer Insights
+# Customer Credit Risk Analysis Dashboard 📊
 
-## 📌 Overview
-This project analyzes loan data to uncover customer behavior, risk patterns, and key business insights. It covers the full data analytics workflow—from data extraction and cleaning to visualization and reporting.
+## Overview
 
-The objective is to support data-driven decision-making by identifying risk drivers, understanding customer segments, and presenting insights through interactive dashboards.
+This project performs a comprehensive **end-to-end data analysis** on a credit risk dataset. The main objective is to analyze customer creditworthiness, identify risk drivers, and build an interactive dashboard to support better credit decision-making.
 
+From data exploration and cleaning to SQL analysis and Tableau visualization — the full analytics workflow is demonstrated.
+
+**Goal**: Understand customer behavior, detect high-risk patterns, and provide actionable insights for credit risk management.
+
+## Dataset 📋
+
+- **Dataset Name**: Customer Credit Risk Analysis Dataset  
+- **File**: `Customer Credit Risk Analysis Dataset.csv`  
+- **Description**: Contains customer information, loan/credit details, demographic data, and credit risk indicators.
+- **Additional File**: `credit_risk_new.xlsx`
+
+## Tools & Technologies 🛠️
+
+- **Programming Language**: Python  
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Database Queries**: SQL Server (T-SQL)  
+- **Visualization Tool**: Tableau  
+- **Reporting**: Microsoft Word & PowerPoint  
+- **Environment**: Jupyter Notebook
+
+## Project Files 📁
+
+- `Customer Credit Risk Analysis Dataset.csv` — Main dataset
+- `Customer Credit Risk Analysis Queries.sql` — SQL queries for deep dive analysis
+- `Customer Credit Risk Analysis.ipynb` — Jupyter Notebook (EDA, Cleaning & Analysis)
+- `Customer Credit Risk Analysis Dashboard.twbx` — Tableau Dashboard
+- `Customer Credit Risk Analysis.pptx` — Final Presentation
+- `Customer Credit Risk Analysis.docx` — Analysis Report
+- `credit_risk_new.xlsx` — Additional data file
+
+## Project Steps 🚀
+
+### 1. Data Loading & Exploratory Data Analysis (EDA) 🔍
+- Loaded dataset using Python
+- Performed Univariate and Multivariate Analysis
+- Visualized distributions and relationships
+
+### 2. Data Cleaning & Preprocessing 🧹
+- Handled missing values and outliers
+- Data type corrections and feature engineering
+
+### 3. Deep Dive Analysis with SQL 💾
+- Wrote complex SQL queries to analyze credit risk patterns
+- Performed segmentation and risk profiling
+
+### 4. Interactive Tableau Dashboard 📈
+Built a professional dashboard with **3 main views**:
+
+- **Loan / Credit Overview** – Portfolio summary and key KPIs
+- **Customer Analysis** 👥 – Customer demographics and behavior
+- **Risk Drivers** ⚠️ – Key factors influencing credit risk and default probability
+
+### 5. Reporting & Presentation 📝
+- Detailed analysis report (`Customer Credit Risk Analysis.docx`)
+- Professional PowerPoint presentation for stakeholders
+
+## Dashboard Highlights ✨
+
+- Interactive filters and drill-down functionality
+- Clean, modern, and business-friendly design
+- Focus on key risk metrics and customer insights
 ---
 
-## 📂 Dataset
-The dataset contains loan and customer-related information, including:
+## Author 👨‍💼
 
-- Customer demographics  
-- Loan amount, interest rate, and term  
-- Credit history  
-- Income and financial indicators  
-- Loan status (target variable)  
+**Made with passion for Data Analytics** ❤️  
 
----
-
-## 🛠️ Tools & Technologies
-- **Python**: Data processing and analysis  
-  - `pandas`, `numpy`, `matplotlib`, `seaborn`  
-- **SQL Server**: Data querying and deep-dive analysis  
-- **Tableau**: Data visualization and dashboarding  
-- **Word & PowerPoint**: Reporting and presentation  
-
----
-
-## 🔍 Project Workflow
-
-### 1. Data Loading & Understanding
-- Imported dataset using Python  
-- Checked data structure, types, and missing values  
-
-### 2. Data Cleaning
-- Handled missing values  
-- Removed duplicates  
-- Standardized formats  
-- Converted data types  
-
-### 3. Exploratory Data Analysis (EDA)
-- Generated summary statistics  
-- Identified trends, distributions, and anomalies  
-
-### 4. Univariate Analysis
-- Analyzed distribution of individual variables  
-- Example: income, loan amount, interest rate  
-
-### 5. Multivariate Analysis
-- Examined relationships between variables  
-- Correlation analysis  
-- Impact of features on loan status  
-
-### 6. SQL Deep Dive Analysis
-- Loaded cleaned data into SQL Server  
-- Performed:
-  - Customer segmentation  
-  - Default rate analysis  
-  - Risk pattern identification  
-  - KPI aggregation  
-
-### 7. Dashboard Development (Tableau)
-
-Built 3 interactive dashboards:
-
-#### 📊 Loan Overview
-- Total loans  
-- Approval rate  
-- Key KPIs  
-
-#### 👥 Customer Analysis
-- Customer segmentation  
-- Demographic insights  
-
-#### ⚠️ Risk Driver
-- Factors influencing loan default  
-- Risk distribution  
-
----
-
-## 📊 Dashboard
-The Tableau dashboards provide:
-- Interactive filters  
-- Clear KPI tracking  
-- Business-focused insights  
-
----
-
-## 📈 Key Results & Insights
-- Identified key drivers of loan default  
-- Segmented customers by risk level  
-- Found relationships between income, loan size, and default probability  
-- Provided actionable insights for risk reduction and improving loan approval strategies
+**Bá Khải**  
+Aspiring Data Analyst
