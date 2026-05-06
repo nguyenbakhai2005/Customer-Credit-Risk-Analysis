@@ -32,7 +32,7 @@ From data exploration and cleaning to SQL analysis and Tableau visualization —
 - `Customer Credit Risk Analysis Dashboard.twbx` — Tableau Dashboard
 - `Customer Credit Risk Analysis.pptx` — Final Presentation
 - `Customer Credit Risk Analysis.docx` — Analysis Report
-- `credit_risk_new.xlsx` — Additional data file
+- `credit_risk_new.xlsx` — Cleaned data file
 
 ## Project Steps 🚀
 
