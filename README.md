@@ -1,4 +1,4 @@
-# Customer Credit Risk Analysis Dashboard 📊
+# Customer Credit Risk Analysis 📊
 
 ## Overview
 
