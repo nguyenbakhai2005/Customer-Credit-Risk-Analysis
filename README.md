@@ -7,13 +7,21 @@ This project performs a comprehensive **end-to-end data analysis** on a credit r
 From data exploration and cleaning to SQL analysis and Tableau visualization — the full analytics workflow is demonstrated.
 
 **Goal**: Understand customer behavior, detect high-risk patterns, and provide actionable insights for credit risk management.
+### Dashboard 1
+<img width="1593" height="893" alt="image" src="https://github.com/user-attachments/assets/7be3d960-db88-4d8f-9112-755ad3a381b2" />
+
+### Dashboard 2
+<img width="1607" height="882" alt="image" src="https://github.com/user-attachments/assets/c903f1b2-9606-4a1d-bc1f-d0ab9b3a0879" />
+
+### Dashboard 3
+<img width="1582" height="884" alt="image" src="https://github.com/user-attachments/assets/69c71d2f-0ef2-457f-ac8e-1f5886b9db55" />
 
 ## Dataset 📋
 
 - **Dataset Name**: Customer Credit Risk Analysis Dataset  
 - **File**: `Customer Credit Risk Analysis Dataset.csv`  
 - **Description**: Contains customer information, loan/credit details, demographic data, and credit risk indicators.
-- **Additional File**: `credit_risk_new.xlsx`
+- **Cleaned File**: `credit_risk_new.xlsx`
 
 ## Tools & Technologies 🛠️
 
